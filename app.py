@@ -30,7 +30,7 @@ if st.button("Get Recommendations"):
         st.warning("Please enter an anime title to search.")
     else:
         # Fetch critique and recommendations
-        with st.spinner("Analyzing taste and fetching from Gemini..."):
+        with st.spinner("Analyzing taste..."):
             info_text, recs_text = get_anime_info_and_recommendations(anime_name)
 
         # Extract and display critique
