@@ -4,7 +4,7 @@
 
 Built with **Streamlit** and **Google Gemini 1.5 Flash** via **LangChain**, AniMate is fast, fun, and ruthlessly funny.
 
-![AniMate Demo](https://via.placeholder.com/800x400?text=AniMate+Demo)
+![AniMate Demo](https://animatee.streamlit.app)
 
 ## 🚀 Features
 
